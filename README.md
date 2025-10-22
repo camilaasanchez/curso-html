@@ -12,7 +12,7 @@ Como usar
 
 Lista de projetos:
 
-- projeto-01
+- projeto-01:
 - projeto-02
 - projeto-03
 - projeto-04
